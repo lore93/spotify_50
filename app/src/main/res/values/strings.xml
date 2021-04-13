@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spotify Top 50</string>
+    <string name="sync">Sync</string>
+    <string name="actionbar_name">Spotify Top 50</string>
+    <string name="album_image">Album image</string>
+    <string name="com_spotify_sdk_redirect_scheme"></string>
+    <string name="com_spotify_sdk_redirect_host"></string>
+    <string name="error">Downloading Error</string>
+    <string name="spotifyCallback">spotifytestapp://callback</string>
+    <string name="streaming">streaming</string>
+</resources>
